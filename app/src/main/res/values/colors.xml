@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2979FF</color>
+    <color name="primary_container">#1A3A6B</color>
+    <color name="surface">#1E1E2E</color>
+    <color name="surface_variant">#2A2A3E</color>
+    <color name="background">#121212</color>
+    <color name="user_bubble">#1565C0</color>
+    <color name="agent_bubble">#2D2D42</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_primary">#EFEFEF</color>
+    <color name="text_secondary">#AAAACC</color>
+    <color name="status_idle">#66BB6A</color>
+    <color name="status_working">#FF7043</color>
+    <color name="thinking_bg">#1A1A2E</color>
+    <color name="error_red">#CF6679</color>
+</resources>

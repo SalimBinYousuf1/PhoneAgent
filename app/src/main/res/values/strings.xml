@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PhoneAgent</string>
+    <string name="accessibility_service_description">PhoneAgent needs accessibility access to control your phone and complete tasks autonomously.</string>
+    <string name="notification_channel_id">phoneagent_service</string>
+    <string name="notification_channel_name">PhoneAgent Service</string>
+    <string name="heartbeat_channel_id">phoneagent_heartbeat</string>
+    <string name="heartbeat_channel_name">PhoneAgent Alerts</string>
+</resources>
